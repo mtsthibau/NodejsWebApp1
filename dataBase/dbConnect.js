@@ -15,3 +15,5 @@ const sequelize = new Sequelize('AlchemistAppDB', 'postgres', 'Thibmat4@0', {
     // http://docs.sequelizejs.com/manual/tutorial/querying.html#operators
     operatorsAliases: false
 });
+
+
